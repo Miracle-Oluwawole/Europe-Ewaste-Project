@@ -1,0 +1,18 @@
+{
+    "target": "generated",
+    "y_col": "generated_kg_per_cap",
+    "r2": 0.517312668587516,
+    "adj_r2": 0.4897305353639455,
+    "f_stat": 18.755353851508588,
+    "f_pvalue": 2.9117444657678623e-06,
+    "coefficients": {
+        "Intercept": -136.09272967744974,
+        "log_gdp": 10.433803351175087,
+        "log_population": 4.094696701512016
+    },
+    "pvalues": {
+        "Intercept": 3.523091850329345e-05,
+        "log_gdp": 1.5265583188915421e-06,
+        "log_population": 0.0005616280245639198
+    }
+}

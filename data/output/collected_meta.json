@@ -1,0 +1,18 @@
+{
+    "target": "collected",
+    "y_col": "collected_kg_per_cap",
+    "r2": 0.4238131863359297,
+    "adj_r2": 0.42047297292338437,
+    "f_stat": 126.88206829663984,
+    "f_pvalue": 4.979340642562014e-42,
+    "coefficients": {
+        "Intercept": -113.29595467231647,
+        "log_gdp": 11.309328585080534,
+        "log_population": 1.3031911512647252
+    },
+    "pvalues": {
+        "Intercept": 3.991560422016193e-26,
+        "log_gdp": 3.685631417223467e-43,
+        "log_population": 9.796979879692554e-06
+    }
+}

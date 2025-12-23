@@ -1,0 +1,18 @@
+{
+    "target": "recovered",
+    "y_col": "recovered_kg_per_cap",
+    "r2": 0.40236508256722103,
+    "adj_r2": 0.39889046095423975,
+    "f_stat": 115.80112236220921,
+    "f_pvalue": 3.523593073709188e-39,
+    "coefficients": {
+        "Intercept": -110.15408615813128,
+        "log_gdp": 10.388474196088165,
+        "log_population": 1.5421975718501484
+    },
+    "pvalues": {
+        "Intercept": 1.6202383579170932e-26,
+        "log_gdp": 2.6860147162249285e-40,
+        "log_population": 7.075344518456415e-08
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "target": "recycled",
+    "y_col": "recycled_kg_per_cap",
+    "r2": 0.2392728782122725,
+    "adj_r2": 0.22808571465657068,
+    "f_stat": 21.388163051421543,
+    "f_pvalue": 8.386199955113955e-09,
+    "coefficients": {
+        "Intercept": -65.70937199132008,
+        "log_gdp": 6.4161675445954085,
+        "log_population": 1.21302611549909
+    },
+    "pvalues": {
+        "Intercept": 4.945734248464466e-06,
+        "log_gdp": 1.5109328286382809e-09,
+        "log_population": 0.0022221183945973885
+    }
+}

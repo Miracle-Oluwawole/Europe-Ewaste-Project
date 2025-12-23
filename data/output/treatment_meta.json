@@ -1,0 +1,18 @@
+{
+    "target": "treatment",
+    "y_col": "treatment_kg_per_cap",
+    "r2": 0.42425701159367124,
+    "adj_r2": 0.42091937108117083,
+    "f_stat": 127.11285412695064,
+    "f_pvalue": 4.359567941299332e-42,
+    "coefficients": {
+        "Intercept": -114.9099673979048,
+        "log_gdp": 11.37240326575405,
+        "log_population": 1.3252693044142023
+    },
+    "pvalues": {
+        "Intercept": 1.5700985006949216e-26,
+        "log_gdp": 3.1646549969016623e-43,
+        "log_population": 7.65274522603691e-06
+    }
+}
