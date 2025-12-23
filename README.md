@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Dagster](https://img.shields.io/badge/Dagster-Orchestration-6C5CE7?style=flat-square&logo=dagster)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql)
 
 
@@ -51,6 +52,8 @@ APIs → MongoDB (raw) → PostgreSQL (clean)
 - Multiple Linear Regression (OLS)
 - Country-level normalisation and ranking
 
+All modelling decisions were justified with statistical assumptions and diagnostics.
+
 ---
 
 ## Key Insights
@@ -79,3 +82,9 @@ The Streamlit dashboard allows users to:
 **Orchestration & Apps**
 - Dagster (asset-based pipelines)
 - Streamlit (interactive dashboard)
+
+---
+
+## Author
+**Miracle Deborah Oluwawole**  
+📧 miracleoluwawole@gmail.com  
