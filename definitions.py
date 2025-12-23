@@ -13,12 +13,17 @@ defs = Definitions(
         regression_models,
     ]) + [dashboard_info],
 
-    resources={
-        "mongo": mongo_resource.configured({
-            "MONGO_URI": "mongodb+srv://MiracleOluwawole:Technology21.@analyticslab.zgvvhu7.mongodb.net/?appName=Analyticslab"
-        }),
-        "postgres": postgres_resource.configured({
-            "POSTGRES_URL": "postgresql://postgres:Technology21.@localhost:5432/ewastecleaned_db"
-        })
-    },
+from dotenv import load_dotenv
+import os
+load_dotenv()
+    
+resources = {
+    "mongo": mongo_resource.configured({
+        "MONGO_URI": os.getenv("MONGO_URI")
+    }),
+    "postgres": postgres_resource.configured({
+        "POSTGRES_URL": os.getenv("POSTGRES_URL")
+    })
+}
 )
+
