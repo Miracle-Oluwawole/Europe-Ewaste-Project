@@ -13,6 +13,10 @@ Electronic waste is one of the fastest-growing waste streams globally. This proj
 Built as a **production-style analytics pipeline**, the project demonstrates skills across **data engineering, statistical modelling, automation, and visual analytics**.
 
 ---
+Click the link below to view the Project Report
+Google Drive(https://docs.google.com/document/d/1PiUkm9UhSZGVccyRJqUBKn9PRK5L5jnU/edit?usp=sharing&ouid=118103977541279081890&rtpof=true&sd=true)
+
+---
 
 ## What I Built (At a Glance)
 ✔ Automated multi-source data ingestion (APIs)  
